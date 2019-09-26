@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RnProject.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9AE71ACDBD24661C7EC09F4A0E6C46CC7E253D51</string>
+				<key>dateExpires</key>
+				<string>2022/9/17</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6V8R432M4U.com.Retech.RnProject</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6V8R432M4U</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>6V8R432M4U.com.Retech.RnProject</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>RnProject.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f7516038-3808-456f-92fe-e214170e1280</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.Retech.RnProject</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6V8R432M4U</string>
+				<key>name</key>
+				<string>Jiangsu Retech Education Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
