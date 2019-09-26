@@ -35,3 +35,8 @@ react-native run-ios // 暂未配置安卓
 
 axios实现service层封装为Fetch公用方法，全局调用
 
+4. 扫描二维码
+```json
+"react-native-qrcode-scanner": "^1.2.1",
+```
+
